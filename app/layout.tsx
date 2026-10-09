@@ -13,6 +13,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="ru" className={manrope.variable}>
       <head>
+        <meta name="yandex-verification" content="f83677908ced60ce" />
         <title>Stake казино — официальный сайт и рабочее stake зеркало | Стейк казино онлайн</title>
         <meta
           name="description"
